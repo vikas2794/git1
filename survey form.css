@@ -1,0 +1,13 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+th,td {
+    padding: 8px;
+}
+label {
+    margin-right: 15px;
+}
+.boat {
+    font-size: 0.7em;
+    border: 1px solid;
+}
